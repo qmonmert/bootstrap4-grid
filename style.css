@@ -1,0 +1,15 @@
+body {
+  margin: 30px;
+}
+.my-container {
+  border: 1px solid lightskyblue;
+}
+.my-row-white {
+  border: 2px solid white;
+}
+.my-row-with-height {
+  height: 100px;
+}
+.my-col {
+  border: 1px solid gray;
+}
